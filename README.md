@@ -8,7 +8,7 @@ It will run as nobody:users by default
 
 | Tag | Description |
 |-----|-------------|
-| [`latest`] | Based on ubuntu, my original version |
-| [`alpine`] | Based on alpine, much smaller |
+| [`latest`](https://github.com/vladus2000/cloudflared/blob/master/Dockerfile) | Based on ubuntu, my original version |
+| [`alpine`](https://github.com/vladus2000/cloudflared/blob/alpine/Dockerfile) | Based on alpine, much smaller |
 
 
